@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://RhoHeeSeon.github.io/sitemap.xml
