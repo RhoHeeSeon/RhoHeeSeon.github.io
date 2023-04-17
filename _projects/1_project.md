@@ -16,10 +16,10 @@ category: work
 - 사람-물체 파지 데이터 구축
     - 4대 이상의 카메라를 사용하여 다양한 시점에서 손과 물체를 촬영
 
-<img src="assets/projects/occluded.png" width="1000" />
-<img src="assets/projects/occluded1.png" width="1000" />
-<img src="assets/projects/occluded2.png" width="1000" />
-<img src="assets/projects/occluded3.png" width="1000" />
+<img src="../assets/projects/occluded.png" width="1000" />
+<img src="../assets/projects/occluded1.png" width="1000" />
+<img src="../assets/projects/occluded2.png" width="1000" />
+<img src="../assets/projects/occluded3.png" width="1000" />
 
 - Project Detail
     - 출연: 한국지능정보사회진흥원

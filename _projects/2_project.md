@@ -12,7 +12,7 @@ category: work
 - Grasping algorithm for unfixed environments 
 - Worker intention recognition algorithm for shared autonomy environment
 
-<img src="assets/projects/unstructured.png" width="1000" />
+<img src="../assets/projects/unstructured.png" width="1000" />
 
 - Project Detail
     - 출연: 산업통상자원부, 한국산업기술평가관리원

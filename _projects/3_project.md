@@ -9,7 +9,7 @@ category: work
 
 Photovoltaic Power Prediction with weather data
 
-<img src="assets/projects/pv.png" width="1000" />
+<img src="../assets/projects/pv.png" width="1000" />
 
 - Project Detail
     - 출연: 과학기술정보통신부
