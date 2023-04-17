@@ -13,5 +13,5 @@ nav_order: 4
 - Grasp Algorithm (GGCNN)
 - Pick and Place
 <video muted autoplay loop>
-      <source src="../assets/videos/pickplace.mp4" type="video/mp4">
+      <source src="../assets/videos/pickplace.mp4" width="1500" type="video/mp4">
 </video>
