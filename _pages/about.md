@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: M.S. Student @ <a href='#'>GIST (Gwangju Institute of Science and Technology)</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>M.S. Student</p>
+    <p>GIST AILAB</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a Master's student at the School of Integrated Technology at [Gwangju Institute of Science and Technology (GIST)](https://www.gist.ac.kr/), where I am advised by Professor [Kyoobin Lee](https://ailab.gist.ac.kr/). I received my Bachelor's degree in Electronics Engineering from Inha University in 2020.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests are robotics and artificial intelligence. The goal of my research is to enable systems to interact with people and the environment in an intelligent way. In order for the robot to operate stably in an unstructured environment, I believe that perception is an important thing in robot manipulation. So I focus on this and will struggle with the technology that robots could perceive through efficient interaction.
+
+
