@@ -12,6 +12,6 @@ Photovoltaic Power Prediction with weather data
 <img src="assets/projects/pv.png" width="1000" />
 
 - Project Detail
-  출연: 과학기술정보통신부
-  기간: 2021.07.01 ~ 2025.12.31 (5년)
-  사업비: 44,500,000,000 원
+    - 출연: 과학기술정보통신부
+    - 기간: 2021.07.01 ~ 2025.12.31 (5년)
+    - 사업비: 44,500,000,000 원
